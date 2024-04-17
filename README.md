@@ -3,7 +3,7 @@
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100"> </h2>
 
-<p align="center">
+<p align="left">
 <a href="https://linkedin.com/in/ronnieutd" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" alt="ronnieutd" height="30" width="30" /></a>
 <a href="https://www.facebook.com/ronnieutd" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/facebook.svg" alt="ronnieutd" height="30" width="30" /></a>
 </p>
@@ -12,7 +12,6 @@
 
 <h2> My Latest badges</h2>
 
-<p align="center">
 <!--START_SECTION:badges-->
 [![GitHub Advanced Security](https://images.credly.com/size/110x110/images/c9ed294b-f8ac-48fa-a8c3-96dab1f110f2/image.png)](http://www.credly.com/badges/27b4b4e3-4306-44f6-9aa8-985935ce688e "GitHub Advanced Security")
 [![GitHub Actions](https://images.credly.com/size/110x110/images/89efc3e7-842b-4790-b09b-9ea5efc71ec3/image.png)](http://www.credly.com/badges/eeeba952-bdf3-4001-8fb1-876fee91a32b "GitHub Actions")
@@ -20,9 +19,9 @@
 [![AWS Certified Cloud Practitioner](https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](http://www.credly.com/badges/093c96ae-d051-4960-bde5-60998bb073ac "AWS Certified Cloud Practitioner")
 [![GitHub Administration](https://images.credly.com/size/110x110/images/34880f37-8ec8-4542-a78a-73ba6647208e/image.png)](http://www.credly.com/badges/3f0492bc-f75b-44f5-86ad-59b01edc084b "GitHub Administration")
 <!--END_SECTION:badges-->
-<br>
-  More details can be found on [Credly](https://www.credly.com/users/ronnieutd/badges).
-</p>
+<i>More details can be found on <a href="https://www.credly.com/users/ronnieutd/badges">Credly</a>.</i>
+
+<br />
 
 <p align="center">
   <h2> Skills <img src="./img/icons/skills.webp" width="32" height="32"></h2>
