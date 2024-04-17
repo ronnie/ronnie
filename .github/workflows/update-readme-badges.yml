@@ -1,4 +1,4 @@
-name: Update badges
+name: Update README badges
 
 on:
   workflow_dispatch:
@@ -12,6 +12,3 @@ jobs:
     steps:
       - name: Badges - Readme
         uses: pemtajo/badge-readme@main
-        with:
-          CREDLY_USER: ronnieutdA
-          CREDLY_SORT: POPULAR
