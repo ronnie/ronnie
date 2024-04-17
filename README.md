@@ -4,8 +4,8 @@
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100"> </h2>
 
 <p align="left">
-<a href="https://linkedin.com/in/ronnieutd" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" alt="ronnieutd" width="100" height="80"></a>
-<a href="https://www.facebook.com/ronnieutd" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg" alt="ronnieutd" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/ronnieutd" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="ronnieutd" width="40" height="40"></a>
+<a href="https://www.facebook.com/ronnieutd" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg" alt="ronnieutd" height="40" width="40" /></a>
 </p>
 
 <br />
