@@ -6,7 +6,7 @@ on:
       CREDLY_USER:
         default: "ronnieutd"
   schedule:
-    # Runs at 0am UTC every day
+    # Runs at 0am UTC every Sunday
     - cron: "0 0 * * 0"
 jobs:
   update-readme:
@@ -14,4 +14,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Badges - Readme
-        uses: ronnie/actions-badge-readme@main
+        uses: pemtajo/badge-readme@main
