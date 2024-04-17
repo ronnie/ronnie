@@ -13,5 +13,5 @@ jobs:
       - name: Badges - Readme
         uses: pemtajo/badge-readme@main
         with:
-          CREDLY_USER: ronnieutd
+          CREDLY_USER: ronnieutdA
           CREDLY_SORT: POPULAR
