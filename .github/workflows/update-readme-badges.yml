@@ -8,6 +8,9 @@ jobs:
   update-readme:
     name: Update Readme badges
     runs-on: ubuntu-latest
+    env:
+      CREDLY_USER: ronnieutd
+      CREDLY_SORT: POPULAR
     steps:
       - name: Badges - Readme
         uses: pemtajo/badge-readme@main
