@@ -2,9 +2,6 @@ name: Update badges
 
 on:
   workflow_dispatch:
-    inputs:
-      CREDLY_USER:
-        default: "ronnieutd"
   schedule:
     # Runs at 0am UTC every Sunday
     - cron: "0 0 * * 0"
