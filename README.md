@@ -14,6 +14,7 @@
 <h2> Mys Latest badges</h2>
 
 <!--START_SECTION:badges-->
+[![3 hours: Adobe Creative Educator Level 1](https://images.credly.com/size/110x110/images/0de80591-5959-43c1-8939-8756577859c4/image.png)](http://www.credly.com/badges/3612945d-d43d-4ab2-9841-dc0ae0dbd70a "3 hours: Adobe Creative Educator Level 1")
 <!--END_SECTION:badges-->
 
 More details can be found on [Credly](https://www.credly.com/users/ronnieutd/badges).
