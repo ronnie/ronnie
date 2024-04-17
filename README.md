@@ -11,7 +11,7 @@
 
 <br />
 
-<h2> Mys Latest badges</h2>
+<h2> My Latest badges</h2>
 
 <!--START_SECTION:badges-->
 [![GitHub Advanced Security](https://images.credly.com/size/110x110/images/c9ed294b-f8ac-48fa-a8c3-96dab1f110f2/image.png)](http://www.credly.com/badges/27b4b4e3-4306-44f6-9aa8-985935ce688e "GitHub Advanced Security")
