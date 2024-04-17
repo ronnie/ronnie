@@ -31,6 +31,7 @@ More details can be found on [Credly](https://www.credly.com/users/ronnieutd/bad
   <a href="ttps://github.com/features/copilot/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/githubcopilot.svg" alt="GitHub Copilot" width="40" height="40"/></a>
   <a href="https://www.java.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
+  <br>
   <a href="https://www.jenkins.io" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40"/></a>
   <a href="https://kubernetes.io" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" alt="kubernetes" width="40" height="40"/></a>
   <a href="https://www.linux.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
