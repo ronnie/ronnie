@@ -14,8 +14,8 @@
 
 <!--START_SECTION:badges-->
 [![AWS Certified Cloud Practitioner](https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](http://www.credly.com/badges/093c96ae-d051-4960-bde5-60998bb073ac "AWS Certified Cloud Practitioner")
-[![GitHub Actions](https://images.credly.com/size/110x110/images/89efc3e7-842b-4790-b09b-9ea5efc71ec3/image.png)](http://www.credly.com/badges/eeeba952-bdf3-4001-8fb1-876fee91a32b "GitHub Actions")
 [![GitHub Foundations](https://images.credly.com/size/110x110/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png)](http://www.credly.com/badges/b23433d6-6d36-4c0f-8af4-c1faa3aac73f "GitHub Foundations")
+[![GitHub Actions](https://images.credly.com/size/110x110/images/89efc3e7-842b-4790-b09b-9ea5efc71ec3/image.png)](http://www.credly.com/badges/eeeba952-bdf3-4001-8fb1-876fee91a32b "GitHub Actions")
 [![GitHub Administration](https://images.credly.com/size/110x110/images/34880f37-8ec8-4542-a78a-73ba6647208e/image.png)](http://www.credly.com/badges/3f0492bc-f75b-44f5-86ad-59b01edc084b "GitHub Administration")
 [![GitHub Advanced Security](https://images.credly.com/size/110x110/images/c9ed294b-f8ac-48fa-a8c3-96dab1f110f2/image.png)](http://www.credly.com/badges/27b4b4e3-4306-44f6-9aa8-985935ce688e "GitHub Advanced Security")
 <!--END_SECTION:badges-->
